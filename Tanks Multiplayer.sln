@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{CC5F9D44-0F83-FD52-1DAE-7ABBEF1B91E9}") = "Tanks Multiplayer", "Assembly-CSharp-firstpass.csproj", "{B4B35590-8BD9-92BB-7D56-2B62CEA54964}"
+EndProject
+Project("{CC5F9D44-0F83-FD52-1DAE-7ABBEF1B91E9}") = "Tanks Multiplayer", "Assembly-CSharp.csproj", "{067D4B41-9492-F86B-E911-9B4F78F539A0}"
+EndProject
+Project("{CC5F9D44-0F83-FD52-1DAE-7ABBEF1B91E9}") = "Tanks Multiplayer", "Assembly-CSharp-Editor.csproj", "{2AFD8530-37F4-1313-4D9C-A7B2B65DA2B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4B35590-8BD9-92BB-7D56-2B62CEA54964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4B35590-8BD9-92BB-7D56-2B62CEA54964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4B35590-8BD9-92BB-7D56-2B62CEA54964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4B35590-8BD9-92BB-7D56-2B62CEA54964}.Release|Any CPU.Build.0 = Release|Any CPU
+		{067D4B41-9492-F86B-E911-9B4F78F539A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067D4B41-9492-F86B-E911-9B4F78F539A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067D4B41-9492-F86B-E911-9B4F78F539A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067D4B41-9492-F86B-E911-9B4F78F539A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AFD8530-37F4-1313-4D9C-A7B2B65DA2B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AFD8530-37F4-1313-4D9C-A7B2B65DA2B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AFD8530-37F4-1313-4D9C-A7B2B65DA2B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AFD8530-37F4-1313-4D9C-A7B2B65DA2B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
